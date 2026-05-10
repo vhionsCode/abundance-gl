@@ -229,6 +229,7 @@ function App() {
           <form
             name="abundance-contact"
             method="POST"
+            action="/thank-you"
             data-netlify="true"
             netlify-honeypot="bot-field"
             className="contact-form"
