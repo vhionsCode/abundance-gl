@@ -217,11 +217,11 @@ function App() {
                 <strong>Phone:</strong> +234 803 456 2562
               </li>
               <li>
-                <strong>Email:</strong> vickyng099@gmail.com
+                <strong>Email:</strong> abundancegeoserviceslimited@gmail.com
               </li>
               <li>
-                <strong>Address:</strong> 6, Ogo Oluwa Close, Oke-Kuto, Abeokuta,
-                Ogun State, Nigeria.
+                <strong>Address:</strong> 5, Road B, Anuoluwapo Temidire Close
+                Oloruntedo Asero Abeokuta.
               </li>
             </ul>
           </div>
